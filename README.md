@@ -53,6 +53,7 @@ I am a passionate Computer Science undergraduate with strong interests in **Arti
 * Built a web platform to assist students with career planning
 * Integrated personalized recommendations and resources
 * Secured **4th position** in a Global AI Summit hackathon
+  Kindly Check the WebApp : https://ai.gladsw.cloud/login
 
 ---
 
@@ -64,18 +65,9 @@ I am a passionate Computer Science undergraduate with strong interests in **Arti
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Vanshika290&show_icons=true&theme=default" height="160" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika290&layout=compact" height="160" />
-</p>
-
----
-
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com](https://www.linkedin.com)
+* 💼 LinkedIn: [https://www.linkedin.com]([https://www.linkedin.com](https://www.linkedin.com/in/vanshika-saxena-3447a8289/))
 * 🧠 LeetCode: [https://leetcode.com/u/Vanshika_2907/](https://leetcode.com/u/Vanshika_2907/)
 * 📧 Email: [vanshikasaxena201220@gmail.com](mailto:vanshikasaxena201220@gmail.com)
 
