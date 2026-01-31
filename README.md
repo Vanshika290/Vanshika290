@@ -69,7 +69,7 @@ I am a passionate Computer Science undergraduate with strong interests in **Arti
 
 ## 📫 Connect With Me
 
-* 💼 LinkedIn: [https://www.linkedin.com]([https://www.linkedin.com](https://www.linkedin.com/in/vanshika-saxena-3447a8289/))
+* 💼 LinkedIn: [https://www.linkedin.com/in/vanshika-saxena-3447a8289/](https://www.linkedin.com/in/vanshika-saxena-3447a8289/)
 * 🧠 LeetCode: [https://leetcode.com/u/Vanshika_2907/](https://leetcode.com/u/Vanshika_2907/)
 * 📧 Email: [vanshikasaxena201220@gmail.com](mailto:vanshikasaxena201220@gmail.com)
 
