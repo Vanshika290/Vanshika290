@@ -6,6 +6,8 @@
 </p>
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Vanshika290&color=blue)
+
 
 ## 🚀 About Me
 
