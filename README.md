@@ -60,16 +60,17 @@ I am a passionate Computer Science undergraduate with strong interests in **Arti
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika290&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Vanshika290&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" height="165" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vanshika290&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="165" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Vanshika290&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vanshika290&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Vanshika290&theme=tokyonight&column=6&no-frame=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Vanshika290&theme=tokyonight&column=6&no-frame=true&margin-w=8" />
 </p>
 
 ---
@@ -137,6 +138,7 @@ I am a passionate Computer Science undergraduate with strong interests in **Arti
 ### 🏠 IoT-Based Home Automation System
 > Smart home system with multi-sensor safety and automation
 
+- 🥈 **Won 2nd Prize** in IoT-Based Automation Project competition
 - Developed smart home monitoring using multiple IoT sensors
 - Implemented fire detection, security monitoring, and garden moisture automation
 - Improved safety and efficiency through real-time sensor integration
@@ -145,8 +147,9 @@ I am a passionate Computer Science undergraduate with strong interests in **Arti
 
 ## 🏆 Achievements
 
+- 🥈 **2nd Prize** — IoT-Based Home Automation Project Competition
 - 🥉 **4th Position** — Global AI Summit Hackathon (GLA University, Noida Campus)
-- 🤖 Built **5+ end-to-end AI/ML projects** deployed with live demos
+- 🤖 Built **6+ end-to-end AI/ML projects** deployed with live demos
 - 🧠 Active participation in hackathons, technical events, and open-source contributions
 
 ---
